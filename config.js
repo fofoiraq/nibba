@@ -37,7 +37,7 @@ var config = { // NOTE: DO NOT LEAVE ANYTHING BLANK
 		oauthSecret: 'OppLAU5fJMXhD2AUPbDW2xqT88kLEpkR', // The client secret from the Discord bot page
 		secure: 'false', // HTTPS: 'true' for true, 'false' for false
 		sessionSecret: 'fsipfskllfslfkl3kklrwlrko330i0r03r0r', // Go crazy on the keyboard here, this is used as a session secret
-		domain: 'bitch-fadi-games.c9users.io', // Domain name (with port if not running behind proxy running on port 80). Example: 'domain': 'dashboard.bot-website.com' OR 'domain': 'localhost:33445'
+		domain: 'wooden-coast.glitch.me', // Domain name (with port if not running behind proxy running on port 80). Example: 'domain': 'dashboard.bot-website.com' OR 'domain': 'localhost:33445'
 		port: '8080', // The port that it should run on
 		invitePerm: '536079575',
 		protectStats: 'false',
